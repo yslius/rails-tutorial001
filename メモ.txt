@@ -1,0 +1,12 @@
+
+https://railstutorial.jp/chapters/beginning?version=7.0
+このサイトに沿って試してみる
+
+gem install rails
+
+bundle install
+
+rails -s
+
+
+
